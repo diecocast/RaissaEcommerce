@@ -1,0 +1,244 @@
+{"level":50,"time":1667417022803,"pid":59100,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427124784,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427137686,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427224271,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667515421002,"pid":45236,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: productos.push is not a function"}
+{"level":50,"time":1667515453487,"pid":45236,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: productos.push is not a function"}
+{"level":50,"time":1667515978536,"pid":15156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.find is not a function"}
+{"level":50,"time":1667515985001,"pid":15156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.find is not a function"}
+{"level":50,"time":1667516421137,"pid":33976,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.filter is not a function"}
+{"level":50,"time":1667526614644,"pid":58476,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526671388,"pid":49108,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526698257,"pid":33228,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526715931,"pid":10972,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667535088209,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
+{"level":50,"time":1667535213782,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
+{"level":50,"time":1667607863269,"pid":1156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: result is not defined"}
+{"level":50,"time":1668102092351,"pid":28600,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: services is not defined"}
+{"level":50,"time":1674321297429,"pid":5612,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674321313776,"pid":5612,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674321927359,"pid":10120,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674321933610,"pid":10120,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674321966536,"pid":13172,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674321981202,"pid":1264,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674322025778,"pid":7576,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674661904445,"pid":11748,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674661909559,"pid":11748,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674661919998,"pid":11748,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674661972785,"pid":14860,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674661977558,"pid":14860,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674662220329,"pid":3092,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674662269750,"pid":1620,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674662292037,"pid":3736,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674662379827,"pid":3736,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674662625845,"pid":16276,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674662728815,"pid":5420,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674665927803,"pid":15616,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674676080346,"pid":15616,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674676268228,"pid":15616,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674676337816,"pid":9884,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674676373232,"pid":9884,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674683278906,"pid":16288,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674684144067,"pid":16288,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674686951506,"pid":11692,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674686992354,"pid":11692,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674689516904,"pid":14888,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674689519403,"pid":14888,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674689665692,"pid":2348,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674691063431,"pid":1676,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674697599838,"pid":15576,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674870003023,"pid":6304,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922410045,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922459330,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922511447,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922608566,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922634073,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922662953,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922671874,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922741243,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922747847,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922818927,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922840924,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674922902028,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674923655402,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674923702278,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924210733,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924328242,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924368164,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924383295,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924401184,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924412863,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924450571,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924565761,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924619224,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924649010,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924661073,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924678972,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924710064,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924732777,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924753255,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924909082,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924918863,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674924983846,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925048675,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925066969,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925106467,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925129922,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925257818,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925349372,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925366635,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925446652,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925478713,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925521409,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925534104,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925566782,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925578846,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925589172,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925598195,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925608815,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925620130,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925636421,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925645667,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925663988,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925671426,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925681023,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925716588,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925730505,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925743425,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925756789,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925768138,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925789724,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925799513,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925819610,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925828845,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925849962,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925863217,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925890906,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925905739,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674925926186,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926009378,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926091845,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926181817,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926567476,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926587610,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926609434,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674926983228,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927005386,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927012775,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927021088,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927030079,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927040444,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927089187,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927098187,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927104066,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927111634,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927123538,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927132557,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927139924,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927155293,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927184020,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927192758,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927204787,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927217200,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927235957,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927285910,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927329705,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927339923,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927346666,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927386035,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927393730,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927402540,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674927412210,"pid":8340,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674929530819,"pid":16128,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674929535078,"pid":16128,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674929539999,"pid":16128,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674929543424,"pid":16128,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674931505367,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932346917,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932375301,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932524763,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932570890,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932591657,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932606197,"pid":16024,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674932988763,"pid":10828,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674933346597,"pid":7376,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1674933366876,"pid":7376,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675173133399,"pid":15284,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675175516757,"pid":6976,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675176248901,"pid":7272,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675176350442,"pid":3944,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675176541794,"pid":4188,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675176927160,"pid":13604,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675177375217,"pid":13848,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675177718830,"pid":472,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675178272637,"pid":8360,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675178396721,"pid":13348,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675178403677,"pid":13348,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675178434684,"pid":18260,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675178476592,"pid":18260,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675178479810,"pid":18260,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675180153498,"pid":9920,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675181469614,"pid":6476,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675181474430,"pid":6476,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675182392258,"pid":8028,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675182398020,"pid":8028,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675444371444,"pid":11804,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675444373987,"pid":11804,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675445755100,"pid":3140,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675525762282,"pid":15132,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675527115831,"pid":10136,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1675529207496,"pid":15272,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675529380240,"pid":11608,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675529562594,"pid":11244,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675529632862,"pid":11016,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675529670543,"pid":14484,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675529731925,"pid":9980,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675529800712,"pid":2616,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530003258,"pid":5888,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530028688,"pid":8088,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530049540,"pid":14816,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530065847,"pid":10892,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530098524,"pid":12624,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530216463,"pid":12624,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530243677,"pid":12624,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530252603,"pid":12624,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530343893,"pid":12624,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530385058,"pid":12624,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530501969,"pid":10748,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530535696,"pid":10748,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530538679,"pid":10748,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675530617934,"pid":13000,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675531115376,"pid":11344,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675531151140,"pid":9192,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675531319700,"pid":14972,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675531372958,"pid":7532,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675533098053,"pid":11048,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675534159763,"pid":8016,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675705834114,"pid":15444,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675719573017,"pid":16368,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675780954572,"pid":13668,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675781326879,"pid":13668,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675781631935,"pid":13668,"hostname":"DESKTOP-KV4J656","msg":"Error :  Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials p13-20020a05620a22ad00b007204305dee4sm9459674qkh.19 - gsmtp"}
+{"level":50,"time":1675782509280,"pid":9696,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675782512713,"pid":9696,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675782538633,"pid":9696,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1675782630765,"pid":9696,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1675782701258,"pid":15136,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1675782973755,"pid":11020,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1675783161804,"pid":11020,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675783284330,"pid":11020,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1675783612591,"pid":8824,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675783759449,"pid":9528,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675785169177,"pid":18048,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675785228804,"pid":18048,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675785390175,"pid":5304,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675785391897,"pid":5304,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'cartID')"}
+{"level":50,"time":1675785898387,"pid":2428,"hostname":"DESKTOP-KV4J656","msg":"Error :  TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":50,"time":1675788014012,"pid":3896,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: user is not defined"}
+{"level":50,"time":1675788015420,"pid":3896,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: user is not defined"}
+{"level":50,"time":1675788108150,"pid":14932,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: user is not defined"}
+{"level":50,"time":1675788249134,"pid":3888,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: user is not defined"}
+{"level":50,"time":1675788290887,"pid":3888,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: user is not defined"}
+{"level":50,"time":1675788304194,"pid":12732,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: user is not defined"}
+{"level":50,"time":1675788344378,"pid":1144,"hostname":"DESKTOP-KV4J656","msg":"Error :  ReferenceError: endShop is not defined"}
+{"level":50,"time":1677344446593,"pid":11900,"hostname":"DESKTOP-KV4J656","msg":"Error :  Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials p13-20020a05620a15ed00b006fed58fc1a3sm1454680qkm.119 - gsmtp"}
