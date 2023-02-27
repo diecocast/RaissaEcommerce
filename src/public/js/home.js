@@ -7,7 +7,7 @@ socket.on('list',data=>{
     Array.from(data).forEach(product => {
         if(!product.id) return ''
         listProducts = listProducts+`
-        <div class="col-md-4">
+        <div data-aos="zoom-out-right" class="col-md-4">
         <div class="product-item">
             <div class="product-thumb">
                 <img class="img-responsive" src="img/${product.thumbnail}" alt="product-img" width="500" height="600" />

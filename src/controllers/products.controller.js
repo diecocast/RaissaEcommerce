@@ -21,7 +21,6 @@ const home = async(req,res)=>{
         if(config.admin.ADMIN_GMAIL!=req.session.user.email){ 
             return res.redirect('/')
         }
-        console.log(req.session.user.email)
         logger.info(`Conexión recibida en ' /api/products/ ' con metodo GET`)
         let products= await services.productsService.getAll()
         
